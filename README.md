@@ -1,4 +1,4 @@
-# MultiClass-FaceDectionSystem-Flask
+# FaceDectionSystem-Flask
 ![](https://github.com/user-attachments/assets/7c5fc8c3-6556-4b49-af19-cbb9b3193b6f)
 ## :bulb: Objective :
 
